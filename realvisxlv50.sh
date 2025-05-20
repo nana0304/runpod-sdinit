@@ -12,20 +12,31 @@ EXTENSIONS=(
     'https://github.com/hako-mikan/sd-webui-regional-prompter'
     'https://github.com/Bing-su/adetailer'
     'https://github.com/pharmapsychotic/clip-interrogator'
+    'https://github.com/DominikDoom/a1111-sd-webui-tagcomplete'
 )
 
 CHECKPOINT_MODELS=(
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/CHECKPOINT/realvisxlV50_v50Bakedvae.safetensors'
+    'https://civitai.com/api/download/models/1761560'
+    'https://civitai.com/api/download/models/1697082'
+    'https://huggingface.co/yodayo-ai/kivotos-xl-2.0/resolve/main/kivotos-xl-2.0.safetensors'
+    'https://huggingface.co/cagliostrolab/animagine-xl-3.1/blob/main/animagine-xl-3.1.safetensors'
+    'https://civitai.com/api/download/models/715443'
+    'https://civitai.com/api/download/models/1496755'
+    'https://civitai.com/api/download/models/1798046'
 )
 
 LORA_MODELS=(
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/EldritchCandids1.1.2.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/MS_Milf_Style_V2_Pony.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/Syd_Mead_Style.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/age_slider-sdxl.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/hinaMaybeBetterPoseXL_v5-NoobAI.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/looking_at_viewer.safetensors'
-    'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/LORA/weight_slider-sdxl.safetensors'
+        'https://civitai.com/api/download/models/1715177'
+        'https://civitai.com/api/download/models/1495438'
+        'https://civitai.com/api/download/models/1596979'
+        'https://civitai.com/api/download/models/1404684'
+        'https://civitai.com/api/download/models/1781769'
+        'https://civitai.com/api/download/models/1353290'
+        'https://civitai.com/api/download/models/1191686'
+        'https://civitai.com/api/download/models/1648798'
+        'https://civitai.com/api/download/models/1637594'
+        'https://civitai.com/api/download/models/1337895'
+        'https://civitai.com/api/download/models/1174713'
 )
 
 VAE_MODELS=(

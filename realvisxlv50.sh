@@ -7,6 +7,15 @@ APT_PACKAGES=()
 PIP_PACKAGES=()
 
 EXTENSIONS=(
+    'https://github.com/DominikDoom/a1111-sd-webui-tagcomplete'
+    'https://github.com/Mikubill/sd-webui-controlnet'
+    'https://github.com/adieyal/sd-dynamic-prompts'
+    'https://github.com/hako-mikan/sd-webui-regional-prompter'
+    'https://github.com/Bing-su/adetailer'
+    'https://github.com/pharmapsychotic/clip-interrogator'
+    'https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen'
+    'https://github.com/jexom/sd-webui-depth-lib'
+    'https://github.com/thomasasfk/sd-webui-aspect-ratio-helper'
 )
 
 CHECKPOINT_MODELS=(

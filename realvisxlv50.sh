@@ -34,7 +34,9 @@ ESRGAN_MODELS=(
     'https://huggingface.co/datasets/AddictiveFuture/sdxl-1-0-models-backup/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth'
 )
 
-CONTROLNET_MODELS=()
+CONTROLNET_MODELS=(
+    'https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/models/sai_xl_recolor_256lora.safetensors'
+)
 
 EMBEDDINGS=()
 

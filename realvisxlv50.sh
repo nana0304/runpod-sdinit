@@ -16,6 +16,7 @@ EXTENSIONS=(
     'https://github.com/AUTOMATIC1111/stable-diffusion-webui-promptgen'
     'https://github.com/jexom/sd-webui-depth-lib'
     'https://github.com/thomasasfk/sd-webui-aspect-ratio-helper'
+    'https://github.com/CASIA-IVA-Lab/sd-webui-segment-anything'
 )
 
 CHECKPOINT_MODELS=(
